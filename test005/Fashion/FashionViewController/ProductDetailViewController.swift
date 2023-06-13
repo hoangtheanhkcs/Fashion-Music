@@ -11,6 +11,7 @@ class ProductDetailViewController: UIViewController, UITableViewDelegate {
     
     @IBOutlet weak var tableView: UITableView!
     
+    
     var productDetail: ProductDetails?
     override func viewDidLoad() {
         super.viewDidLoad()

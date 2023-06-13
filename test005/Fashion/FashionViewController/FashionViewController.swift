@@ -9,6 +9,7 @@ import UIKit
 
 class FashionViewController: UIViewController {
 
+    
     @IBOutlet weak var tableView: UITableView!
     var productData:ProductModel?
     override func viewDidLoad() {
